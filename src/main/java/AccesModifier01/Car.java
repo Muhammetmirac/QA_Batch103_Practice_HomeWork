@@ -19,7 +19,7 @@ public class Car {
         System.out.println(car1.brand);
         System.out.println(car1.model);
         System.out.println(car1.carNumberPlate);
-        car1.
+
 
     }
 }
